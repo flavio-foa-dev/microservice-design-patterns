@@ -29,6 +29,9 @@
 - padrões de integração de microsserviços
 - lidar com dados usando microsserviços
 - realizar a operação e monitoramento de microsserviços
+- componentes de um microsserviço;
+- importância de uma API (interface pública) de um microsserviço;
+- separações entre serviços diferentes.
 
 Tipos de microservicos
 - Data service
