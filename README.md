@@ -54,3 +54,9 @@ Tipos de microservicos
 - falhas de comunicação
 - Possiveis soluções para elas;
 - conceito de Service Discovery e DNS.
+- detalhes de segurança além dos microsserviços;
+- autenticação
+-  autorização;
+- técnicas de segurança em rede, como listas de IP, redes virtuais e firewall;
+- Defense in Depth.
+
