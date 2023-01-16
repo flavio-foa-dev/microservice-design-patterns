@@ -59,4 +59,7 @@ Tipos de microservicos
 -  autorização;
 - técnicas de segurança em rede, como listas de IP, redes virtuais e firewall;
 - Defense in Depth.
+- automatizar pipelines;
+- importância de criar diferentes ambientes de deploy;
+- estratégias de deploy como blue-green e feature toggles.
 
