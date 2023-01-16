@@ -45,3 +45,12 @@ Tipos de microservicos
 
 - Edge service
   edge services. Um edge service, como o nome já diz, serviço de ponta, é algo que é entregue diretamente para o cliente e pode ter necessidades específicas.
+
+- diversas formas de prover hosts de aplicações;
+- etapas de criação de um novo serviço;
+- necessidade de um padrão entre serviços.
+- necessidade de comunicação entre serviços;
+- técnicas de comunicação síncrona e assíncrona;
+- falhas de comunicação
+- Possiveis soluções para elas;
+- conceito de Service Discovery e DNS.

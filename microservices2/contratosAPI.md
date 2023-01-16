@@ -32,3 +32,6 @@ Aqui nós temos algumas formas de mantermos esse contrato e algumas técnicas de
   E a partir dos problemas solucionados, os problemas técnicos nós resolvemos com microsserviços, porque qualquer problema de negócio é resolvido tanto com uma abordagem monolítica como uma arquitetura de microsserviços.
 
   Identificar barreiras entre serviços é uma tarefa árdua e infelizmente não há uma regra definitiva de como fazer isso. Porém há estudos que nos dão um bom norte sobre isso.
+  Existe um conceito de full cycle developer que é justamente isso, qualquer pessoa está apta a trabalhar com todas as partes de uma aplicação
+  Nós precisamos definir esse padrão para garantirmos que determinadas coisas vão ser feitas, que ninguém vai esquecer e que vão ser feitas como deveriam.
+  Para isso, a padronização vai ajudar porque alguém vai pensar muito nisso uma vez e depois todos os microsserviços vão seguir essa abordagem.
