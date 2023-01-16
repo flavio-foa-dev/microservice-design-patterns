@@ -29,3 +29,6 @@ Aqui nós temos algumas formas de mantermos esse contrato e algumas técnicas de
 
   Então, por isso a ideia é que você comece com a abordagem monolítica, para que você conheça o seu domínio, para que você implemente os problemas e para que você resolva os problemas reais e corrigia os bugs.
 
+  E a partir dos problemas solucionados, os problemas técnicos nós resolvemos com microsserviços, porque qualquer problema de negócio é resolvido tanto com uma abordagem monolítica como uma arquitetura de microsserviços.
+
+  Identificar barreiras entre serviços é uma tarefa árdua e infelizmente não há uma regra definitiva de como fazer isso. Porém há estudos que nos dão um bom norte sobre isso.
