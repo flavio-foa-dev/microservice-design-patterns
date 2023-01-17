@@ -31,3 +31,18 @@ Poder usar em outro servidor (como Bitbucket ou GitLab) sem custo.
 Para projetos open source fora do GitHub podemos usar o Travis CI sem nenhum custo nem preocupação com infra on-premise.
 
 GitHub Actions.
+
+- cada projeto pode ter seu processo de build;
+- ferramentas como Jenkins, Travis CI e GitHub Actions;
+- workflow no GitHub Actions;
+- exigindo pull requests e reviews.
+
+cron e um servico.
+Através do cron nós podemos agendar tarefas para rodar diariamente, semanalmente e até de minuto em minuto.
+
+- cada projeto pode ter uma arquitetura e design de código diferentes;
+- como podemos executar tarefas de plano de fundo;
+- como funciona o envio de mensagens usando RabbitMQ.
+- possibilidade de ter mais de uma aplicação front-end;
+- Optimistic and Pessimistic UI Rendering;
+- conceito de micro frontends.
